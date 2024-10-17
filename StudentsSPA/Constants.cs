@@ -8,6 +8,6 @@ namespace StudentsSPA
   public class Constants
   {
     // public const string BASE_URL = "https://bogus.azurewebsites.net/api/";
-    public const string BASE_URL = "/api/"
+    public const string BASE_URL = "/api/";
     }
 }
