@@ -1,0 +1,9 @@
+
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+/SchoolLibrary/bin
+/SchoolLibrary/obj
+/StudentsSPA/bin
+/StudentsSPA/obj
